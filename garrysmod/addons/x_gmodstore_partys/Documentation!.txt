@@ -1,0 +1,72 @@
+Functions
+ply:GetParty()			Will return the partyid (or leaders steamid64)
+returns partyid NUMBER
+
+ply:GetPartyName()		Will get the name that the party leader assigned to the players party 
+returns party name STRING
+
+ply:LeaveParty()		Will kick the player from the party, and disban a party if they are the leader
+	returns nothing
+
+
+	
+	
+Hooks
+CanJoinParty(ply, partyid)
+
+
+
+
+
+Example Usage
+-------CanJoinParty(ply, partyid)-------
+
+hook.Add("CanJoinParty" , "ForceSameTeam" , function (ply, partyid)
+	if ply:Team() != player.GetBySteamID64(partyid) then
+		return false
+	end
+end)
+
+
+
+
+
+
+
+
+
+
+Global table party or parties
+
+PartyTable.members = table of all members in said party {ply:SteamID64()}
+PartyTable.name = Name of party
+
+--Player Spoke in party chat
+hook.Run("SPSChat", Player(ent), PartyTable(table), text(string))
+
+--Player started a party
+hook.Run("SPSStartParty", Player(ent), PartyTable(table) )
+
+--Player Joined Party
+hook.Run("SPSJoinParty", Player(ent), PartyTable(table))
+
+--Player Requested to join party
+hook.Run("SPSRequestJoin", self, PartyTable(table))
+
+-- Response to join request
+hook.Run("SPSRequestResponse", PartyLeader(ent), PartyTable(table), PlayerWantingToJoin(ent), Bool(Accepted or Declined))
+
+-- Party Invite
+hook.Run("SPSPartyInvite", PartyLeader(person who sent invite)(ent), PartyTable, InvitedPlayer(ent))
+
+-- Player left party
+hook.Run("SPSLeaveParty", PlayerWhoLeft(ent), PartyTable(table))
+
+-- Player kicked from party
+hook.Run("SPSKickedParty", Kicker(Playerent), Kicked(Playerent), PartyTable(table))
+
+-- Leader or Admin disbanded party
+hook.Run("SPSDisbandedParty", Disbanner(Playerent), PartyTable(table))
+
+-- Party Leader Left
+hook.Run("SPSPartyLeaderLeft", Leader(Playerent), PartyTable(table))

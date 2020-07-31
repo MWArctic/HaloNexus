@@ -1,0 +1,84 @@
+<<<<<<< HEAD
+[01:17:39]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[01:17:45]	NZERA loaded the character #4(Evan)
+[01:18:07]	Evan used 'table: 0x015eaff8'
+[01:18:07]	Evan used '/chargiveitem am_bloodthorn'
+[01:18:18]	Evan used '/chargiveitem evan am_bloodthorn 1 '
+[01:18:30]	NZERA created the character #5(REE)
+[01:18:30]	Evan's money has changed by 0.
+[01:18:32]	NZERA loaded the character #5(REE)
+[01:18:36]	REE used '/chargiveitem ree am_bloodthorn 1 '
+[01:18:57]	REE used '/chargiveitem ree am_bloodthorn_id 1 '
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE has lost 1xBloodthorn.
+[01:19:23]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:23]	REE used '/chargiveitem ree am_bloodthorn_id 1 '
+[01:19:28]	REE tried 'take' on item 'Bloodthorn'(#1)
+[01:19:28]	REE has picked up 1xBloodthorn.
+[01:19:32]	REE used '/chargiveitem ree am_bloodthorn_id 1 '
+[01:19:33]	REE used '/chargiveitem ree am_bloodthorn_id 1 '
+[01:19:34]	REE used '/chargiveitem ree am_bloodthorn_id 1 '
+[01:19:35]	REE used '/chargiveitem ree am_bloodthorn_id 1 y'
+[01:19:35]	REE used '/chargiveitem ree am_bloodthorn_id 1 y'
+[01:19:38]	REE has lost 1xBloodthorn.
+[01:19:38]	REE tried 'drop' on item 'Bloodthorn'(#1)
+[01:19:39]	REE has lost 1xBloodthorn.
+[01:19:39]	REE tried 'drop' on item 'Bloodthorn'(#2)
+[01:19:39]	REE has lost 1xBloodthorn.
+[01:19:39]	REE tried 'drop' on item 'Bloodthorn'(#3)
+[01:19:40]	REE has lost 1xBloodthorn.
+[01:19:40]	REE tried 'drop' on item 'Bloodthorn'(#4)
+[01:19:40]	REE has lost 1xBloodthorn.
+[01:19:40]	REE tried 'drop' on item 'Bloodthorn'(#5)
+[01:19:40]	REE has lost 1xBloodthorn.
+[01:19:40]	REE tried 'drop' on item 'Bloodthorn'(#6)
+[01:19:41]	REE has lost 1xBloodthorn.
+[01:19:41]	REE tried 'drop' on item 'Bloodthorn'(#7)
+[01:19:44]	REE tried 'take' on item 'Bloodthorn'(#4)
+[01:19:44]	REE has picked up 1xBloodthorn.
+[01:19:44]	REE tried 'take' on item 'Bloodthorn'(#7)
+[01:19:44]	REE has picked up 1xBloodthorn.
+[01:19:45]	REE tried 'take' on item 'Bloodthorn'(#5)
+[01:19:45]	REE has picked up 1xBloodthorn.
+[01:19:45]	REE tried 'take' on item 'Bloodthorn'(#2)
+[01:19:45]	REE has picked up 1xBloodthorn.
+[01:19:46]	REE tried 'take' on item 'Bloodthorn'(#6)
+[01:19:46]	REE has picked up 1xBloodthorn.
+[01:19:47]	REE tried 'take' on item 'Bloodthorn'(#3)
+[01:19:47]	REE has picked up 1xBloodthorn.
+[01:19:47]	REE tried 'take' on item 'Bloodthorn'(#1)
+[01:19:47]	REE has picked up 1xBloodthorn.
+[02:03:52]	REE has disconnected from the server.
+[13:11:10]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[13:11:56]	NZERA loaded the character #4(Evan)
+[13:44:52]	Evan has disconnected from the server.
+[13:47:52]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[13:49:58]	NZERA loaded the character #4(Evan)
+[15:11:14]	[IC] Evan: nigga
+[16:35:36]	[IC] Evan: nigga
+[17:33:48]	Evan used '/chargiveitem evan am_bloodthorn_id 12'
+[17:34:06]	Evan used 'table: 0x274e7e58'
+[17:34:06]	Evan used '/chargiveitem evan am_hell flower_id 4'
+[17:34:14]	Evan used '/chargiveitem evan "am_hell flower_id" 4'
+[23:55:58]	Evan has disconnected from the server.
+[23:56:17]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[23:58:19]	NZERA loaded the character #4(Evan)
+=======
+[00:30:21]	doqdesigns[STEAM_0:1:454926449] has connected to the server.
+[18:52:37]	diazomar73[STEAM_0:1:551032120] has connected to the server.
+>>>>>>> ab99c88d10edb75bb3aa8f4c9fa2ff7501f604cf

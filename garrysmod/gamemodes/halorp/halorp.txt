@@ -1,0 +1,7 @@
+"aftermath"
+{
+	"base"	"nutscript"
+	"title"	"HaloRP"
+	"author"	"Artic / Evan"
+	"menusystem"	"1"
+}

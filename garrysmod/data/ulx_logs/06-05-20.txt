@@ -1,0 +1,113 @@
+[08:29:28] New map: rp_mws_station_v0_8
+[08:39:40] Client "[Master Work] Arctic" connected.
+[08:40:05] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 25 seconds).
+[08:40:16] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[08:41:57] Client "Dr. Cranberry" connected.
+[08:43:30] Client "Dr. Cranberry" spawned in server <STEAM_0:1:22058736> (took 93 seconds).
+[08:43:57] Dr. Cranberry<STEAM_0:1:22058736> changed their name to William Caldwell
+[08:45:42] The Boy kicked William Caldwell
+[08:45:42] The Boy: !kick Will
+[08:45:42] Dropped "William Caldwell" from server<STEAM_0:1:22058736>
+
+
+
+[08:49:44] New map: rp_mws_station_v0_8
+[08:51:26] Client "[Master Work] Arctic" connected.
+[08:51:36] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 10 seconds).
+[08:51:46] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[08:52:06] The Boy: !motd
+
+
+
+[08:59:23] New map: rp_mws_station_v0_8
+[08:59:29] Client "[Master Work] Arctic" connected.
+[08:59:41] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 12 seconds).
+[08:59:48] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+
+
+
+[09:03:11] New map: rp_mws_station_v0_8
+[09:04:56] Client "[Master Work] Arctic" connected.
+[09:05:06] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 10 seconds).
+[09:05:18] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[09:09:25] The Boy stripped weapons from Themself
+[09:09:25] The Boy: !strip *
+
+
+
+[16:11:28] New map: rp_mws_station_v0_8
+[16:12:04] Client "[Master Work] Arctic" connected.
+[16:12:17] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 13 seconds).
+[16:12:25] Dropped "[Master Work] Arctic" from server<STEAM_0:1:29252363>
+[16:12:41] Client "[Master Work] Arctic" connected.
+[16:12:55] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 14 seconds).
+[16:13:02] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[16:16:15] The Boy suicided!
+[16:16:15] The Boy slayed Themself
+[16:16:15] The Boy: !slay ^
+[16:16:30] The Boy suicided!
+[16:16:30] The Boy slayed Themself
+[16:16:30] The Boy: !slay ^
+[16:26:00] The Boy suicided!
+[16:26:00] The Boy slayed Themself
+[16:26:00] The Boy: !slay ^
+
+
+
+[16:29:54] New map: rp_mws_station_v0_8
+[16:30:13] Client "[Master Work] Arctic" connected.
+[16:30:26] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 13 seconds).
+[16:30:34] Dropped "[Master Work] Arctic" from server<STEAM_0:1:29252363>
+[16:31:39] Client "[Master Work] Arctic" connected.
+[16:31:53] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 14 seconds).
+[16:32:01] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[16:33:07] The Boy: /flaggive "The Boy" e
+[16:33:10] The Boy: /flaggive "The Boy" n
+[16:33:23] The Boy<STEAM_0:1:29252363> spawned model models/props_c17/fence03a.mdl
+[16:35:37] The Boy<STEAM_0:1:29252363> spawned model models/props_c17/fence03a.mdl
+[16:35:41] The Boy<STEAM_0:1:29252363> spawned model models/props_c17/fence03a.mdl
+[16:37:25] Client "NZERA" connected.
+[16:38:01] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 36 seconds).
+[16:38:33] NZERA<STEAM_0:0:15927175> changed their name to BIG CHUNGUS PENIS MAN
+[16:39:01] The Boy<STEAM_0:1:29252363> spawned model models/props_c17/fence03a.mdl
+[16:39:57] BIG CHUNGUS PENIS MAN removed all access rights from NZERA
+[16:40:32] The Boy<STEAM_0:1:29252363> spawned model models/props_c17/gravestone003a.mdl
+[16:41:36] The Boy changed the map to rp_mws_station_v0_8
+[16:41:36] Server is shutting down/changing levels.
+
+
+
+[16:41:42] New map: rp_mws_station_v0_8
+[16:41:54] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 15 seconds).
+[16:41:55] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 16 seconds).
+[16:42:05] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[16:42:05] Dropped "NZERA" from server<STEAM_0:0:15927175>
+[16:43:03] Client "NZERA" connected.
+[16:43:22] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 19 seconds).
+[16:43:31] NZERA<STEAM_0:0:15927175> changed their name to BIG CHUNGUS PENIS MAN
+[16:45:23] The Boy changed the map to rp_mws_station_v0_8
+[16:45:23] Server is shutting down/changing levels.
+
+
+
+[16:45:30] New map: rp_mws_station_v0_8
+[16:45:42] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 16 seconds).
+[16:45:43] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 17 seconds).
+[16:45:49] Dropped "[Master Work] Arctic" from server<STEAM_0:1:29252363>
+[16:47:02] NZERA<STEAM_0:0:15927175> changed their name to BIG CHUNGUS PENIS MAN
+[16:48:30] Client "[Master Work] Arctic" connected.
+[16:48:47] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 17 seconds).
+[16:49:02] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+[16:51:23] Dropped "BIG CHUNGUS PENIS MAN" from server<STEAM_0:0:15927175>
+[17:03:05] The Boy changed the map to rp_mws_station_v0_8
+[17:03:05] Server is shutting down/changing levels.
+
+
+
+[17:03:11] New map: rp_mws_station_v0_8
+[17:03:22] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 14 seconds).
+[17:03:29] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to The Boy
+
+
+
+[19:52:51] New map: rp_mws_station_v0_8

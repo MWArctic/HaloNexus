@@ -1,0 +1,45 @@
+[08:40:05]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[08:40:15]	[Master Work] Arctic loaded the character #1(The Boy)
+[08:43:30]	Dr. Cranberry[STEAM_0:1:22058736] has connected to the server.
+[08:43:56]	Dr. Cranberry loaded the character #3(William Caldwell)
+[08:45:42]	[IC] The Boy: !kick Will
+[08:45:42]	William Caldwell has disconnected from the server.
+[08:51:36]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[08:51:46]	[Master Work] Arctic loaded the character #1(The Boy)
+[08:52:06]	[IC] The Boy: !motd
+[08:59:41]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[08:59:48]	[Master Work] Arctic loaded the character #1(The Boy)
+[09:05:06]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[09:05:17]	[Master Work] Arctic loaded the character #1(The Boy)
+[09:08:22]	The Boy tried 'Equip' on item 'Evan's Big Chungus Cosplay Suit Mask'(#1)
+[09:08:28]	The Boy tried 'EquipUn' on item 'Evan's Big Chungus Cosplay Suit Mask'(#1)
+[09:09:25]	[IC] The Boy: !strip *
+[16:12:17]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:12:55]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:13:01]	[Master Work] Arctic loaded the character #1(The Boy)
+[16:16:15]	[IC] The Boy: !slay ^
+[16:16:30]	[IC] The Boy: !slay ^
+[16:26:00]	[IC] The Boy: !slay ^
+[16:30:26]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:31:53]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:32:00]	[Master Work] Arctic loaded the character #1(The Boy)
+[16:33:07]	The Boy used '/flaggive "The Boy" e'
+[16:33:10]	The Boy used '/flaggive "The Boy" n'
+[16:38:01]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[16:38:31]	NZERA's money has changed by 0.
+[16:38:31]	NZERA created the character #7(BIG CHUNGUS PENIS MAN)
+[16:38:33]	NZERA loaded the character #7(BIG CHUNGUS PENIS MAN)
+[16:41:54]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:41:55]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[16:42:04]	[Master Work] Arctic loaded the character #1(The Boy)
+[16:43:22]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[16:43:30]	NZERA loaded the character #7(BIG CHUNGUS PENIS MAN)
+[16:45:42]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:45:43]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[16:47:01]	NZERA loaded the character #7(BIG CHUNGUS PENIS MAN)
+[16:48:47]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[16:49:01]	[Master Work] Arctic loaded the character #1(The Boy)
+[16:51:15]	BIG CHUNGUS PENIS MAN has taken 8 damage from The Boy, leaving them at 93 health.
+[16:51:23]	BIG CHUNGUS PENIS MAN has disconnected from the server.
+[17:03:22]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[17:03:29]	[Master Work] Arctic loaded the character #1(The Boy)

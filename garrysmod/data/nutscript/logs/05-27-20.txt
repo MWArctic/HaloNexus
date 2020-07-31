@@ -1,0 +1,832 @@
+[15:48:11]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[15:48:48]	NZERA created the character #1(Evan)
+[15:48:48]	NZERA's money has changed by 0.
+[15:48:49]	NZERA loaded the character #1(Evan)
+[15:49:47]	Evan has disconnected from the server.
+[15:51:14]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[15:51:32]	NZERA loaded the character #1(Evan)
+[16:03:26]	Evan has disconnected from the server.
+[16:05:05]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[16:05:12]	NZERA loaded the character #1(Evan)
+[16:07:59]	Evan has taken 56 damage from worldspawn, leaving them at 45 health.
+[17:51:17]	Bot01 loaded the character #1590598277(Bot01)
+[17:51:17]	Bot02 loaded the character #1590598277(Bot02)
+[17:51:17]	Bot03 loaded the character #1590598277(Bot03)
+[17:51:17]	Bot04 loaded the character #1590598277(Bot04)
+[17:51:17]	Bot05 loaded the character #1590598277(Bot05)
+[17:51:17]	Bot06 loaded the character #1590598277(Bot06)
+[17:51:17]	Bot07 loaded the character #1590598277(Bot07)
+[17:51:17]	Bot08 loaded the character #1590598277(Bot08)
+[17:51:18]	Bot09 loaded the character #1590598278(Bot09)
+[17:51:18]	Bot10 loaded the character #1590598278(Bot10)
+[17:51:18]	Bot11 loaded the character #1590598278(Bot11)
+[17:51:18]	Bot12 loaded the character #1590598278(Bot12)
+[17:51:18]	Bot13 loaded the character #1590598278(Bot13)
+[17:51:18]	Bot14 loaded the character #1590598278(Bot14)
+[17:51:18]	Bot15 loaded the character #1590598278(Bot15)
+[17:51:19]	Bot16 loaded the character #1590598278(Bot16)
+[17:51:19]	Bot17 loaded the character #1590598279(Bot17)
+[17:51:19]	Bot18 loaded the character #1590598279(Bot18)
+[17:51:19]	Bot19 loaded the character #1590598279(Bot19)
+[17:51:19]	Bot20 loaded the character #1590598279(Bot20)
+[17:51:19]	Bot21 loaded the character #1590598279(Bot21)
+[17:51:19]	Bot22 loaded the character #1590598279(Bot22)
+[17:51:19]	Bot23 loaded the character #1590598279(Bot23)
+[17:51:19]	Bot24 loaded the character #1590598279(Bot24)
+[17:51:20]	Bot25 loaded the character #1590598280(Bot25)
+[17:51:20]	Bot26 loaded the character #1590598280(Bot26)
+[17:51:20]	Bot27 loaded the character #1590598280(Bot27)
+[17:51:20]	Bot28 loaded the character #1590598280(Bot28)
+[17:51:20]	Bot29 loaded the character #1590598280(Bot29)
+[17:51:20]	Bot30 loaded the character #1590598280(Bot30)
+[17:51:20]	Bot31 loaded the character #1590598280(Bot31)
+[17:51:20]	Bot32 loaded the character #1590598280(Bot32)
+[17:51:21]	Bot33 loaded the character #1590598281(Bot33)
+[17:51:21]	Bot34 loaded the character #1590598281(Bot34)
+[17:51:21]	Bot35 loaded the character #1590598281(Bot35)
+[17:51:21]	Bot36 loaded the character #1590598281(Bot36)
+[17:51:21]	Bot37 loaded the character #1590598281(Bot37)
+[17:51:21]	Bot38 loaded the character #1590598281(Bot38)
+[17:51:21]	Bot39 loaded the character #1590598281(Bot39)
+[17:59:37]	[IC] Evan: !bring *
+[18:00:04]	Bot39 has taken 30 damage from Evan, leaving them at 70 health.
+[18:00:05]	Bot39 has taken 174 damage from Evan, leaving them at -104 health.
+[18:00:05]	Bot39 has taken 12 damage from Evan, leaving them at 88 health.
+[18:00:07]	Bot39 has taken 72 damage from Evan, leaving them at 16 health.
+[18:00:09]	Bot39 has taken 31 damage from Evan, leaving them at -14 health.
+[18:00:10]	Bot08 has taken 25 damage from Evan, leaving them at 76 health.
+[18:00:17]	Bot08 has taken 252 damage from Evan, leaving them at -176 health.
+[18:00:17]	Bot32 has taken 252 damage from Evan, leaving them at -152 health.
+[18:00:18]	Bot16 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:18]	Bot16 has taken 2 damage from Evan, leaving them at 80 health.
+[18:00:19]	Bot16 has taken 2 damage from Evan, leaving them at 98 health.
+[18:00:19]	Bot16 has taken 2 damage from Evan, leaving them at 78 health.
+[18:00:20]	Bot16 has taken 18 damage from Evan, leaving them at 60 health.
+[18:00:21]	Bot16 has taken 18 damage from Evan, leaving them at 42 health.
+[18:00:22]	Bot16 has taken 252 damage from Evan, leaving them at -210 health.
+[18:00:23]	Bot16 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:28]	Bot24 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:28]	Bot24 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:28]	Bot24 has taken 252 damage from Evan, leaving them at -188 health.
+[18:00:28]	Bot39 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:28]	Bot24 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:28]	Bot24 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:28]	Bot24 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:28]	Bot24 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:29]	Bot39 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:29]	Bot39 has taken 2 damage from Evan, leaving them at 62 health.
+[18:00:29]	Bot39 has taken 18 damage from Evan, leaving them at 44 health.
+[18:00:29]	Bot39 has taken 2 damage from Evan, leaving them at 42 health.
+[18:00:29]	Bot39 has taken 2 damage from Evan, leaving them at 40 health.
+[18:00:29]	Bot39 has taken 18 damage from Evan, leaving them at 22 health.
+[18:00:29]	Bot39 has taken 18 damage from Evan, leaving them at 4 health.
+[18:00:29]	Bot39 has taken 18 damage from Evan, leaving them at -14 health.
+[18:00:29]	Bot24 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:29]	Bot24 has taken 18 damage from Evan, leaving them at 28 health.
+[18:00:29]	Bot24 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:40]	Bot24 has taken 18 damage from Evan, leaving them at 28 health.
+[18:00:41]	Bot24 has taken 252 damage from Evan, leaving them at -224 health.
+[18:00:42]	Bot08 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:42]	Bot08 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:42]	Bot08 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:42]	Bot08 has taken 18 damage from Evan, leaving them at 28 health.
+[18:00:42]	Bot32 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:42]	Bot39 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:42]	Bot39 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:42]	Bot39 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:42]	Bot08 has taken 252 damage from Evan, leaving them at -152 health.
+[18:00:43]	Bot39 has taken 18 damage from Evan, leaving them at 28 health.
+[18:00:43]	Bot39 has taken 2 damage from Evan, leaving them at 26 health.
+[18:00:43]	Bot32 has taken 2 damage from Evan, leaving them at 80 health.
+[18:00:43]	Bot32 has taken 18 damage from Evan, leaving them at 62 health.
+[18:00:43]	Bot32 has taken 18 damage from Evan, leaving them at 44 health.
+[18:00:43]	Bot32 has taken 18 damage from Evan, leaving them at 26 health.
+[18:00:43]	Bot32 has taken 18 damage from Evan, leaving them at 8 health.
+[18:00:44]	Bot32 has taken 18 damage from Evan, leaving them at -10 health.
+[18:00:44]	Bot39 has taken 18 damage from Evan, leaving them at 8 health.
+[18:00:44]	Bot39 has taken 2 damage from Evan, leaving them at 6 health.
+[18:00:44]	Bot08 has taken 18 damage from Evan, leaving them at 10 health.
+[18:00:44]	Bot08 has taken 2 damage from Evan, leaving them at 8 health.
+[18:00:44]	Bot08 has taken 18 damage from Evan, leaving them at -10 health.
+[18:00:44]	Bot39 has taken 2 damage from Evan, leaving them at 4 health.
+[18:00:44]	Bot39 has taken 18 damage from Evan, leaving them at -14 health.
+[18:00:46]	Bot08 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:46]	Bot08 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:46]	Bot39 has taken 2 damage from Evan, leaving them at 98 health.
+[18:00:46]	Bot39 has taken 18 damage from Evan, leaving them at 80 health.
+[18:00:47]	Bot39 has taken 2 damage from Evan, leaving them at 78 health.
+[18:00:47]	Bot39 has taken 2 damage from Evan, leaving them at 76 health.
+[18:00:47]	Bot39 has taken 2 damage from Evan, leaving them at 73 health.
+[18:00:47]	Bot39 has taken 2 damage from Evan, leaving them at 71 health.
+[18:00:47]	Bot39 has taken 18 damage from Evan, leaving them at 53 health.
+[18:00:47]	Bot39 has taken 18 damage from Evan, leaving them at 35 health.
+[18:00:47]	Bot39 has taken 18 damage from Evan, leaving them at 17 health.
+[18:00:48]	Bot24 has taken 2 damage from Evan, leaving them at 98 health.
+[18:00:48]	Bot39 has taken 18 damage from Evan, leaving them at -1 health.
+[18:00:48]	Bot24 has taken 2 damage from Evan, leaving them at 98 health.
+[18:00:48]	Bot32 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:48]	Bot32 has taken 2 damage from Evan, leaving them at 80 health.
+[18:00:48]	Bot32 has taken 18 damage from Evan, leaving them at 62 health.
+[18:00:48]	Bot24 has taken 18 damage from Evan, leaving them at 80 health.
+[18:00:49]	Bot24 has taken 18 damage from Evan, leaving them at 62 health.
+[18:00:49]	Bot39 has taken 2 damage from Evan, leaving them at 98 health.
+[18:00:49]	Bot39 has taken 2 damage from Evan, leaving them at 96 health.
+[18:00:49]	Bot08 has taken 2 damage from Evan, leaving them at 98 health.
+[18:00:49]	Bot08 has taken 18 damage from Evan, leaving them at 80 health.
+[18:00:49]	Bot08 has taken 2 damage from Evan, leaving them at 78 health.
+[18:00:49]	Bot08 has taken 18 damage from Evan, leaving them at 60 health.
+[18:00:49]	Bot08 has taken 2 damage from Evan, leaving them at 58 health.
+[18:00:51]	Bot08 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:51]	Bot08 has taken 252 damage from Evan, leaving them at -206 health.
+[18:00:52]	Bot24 has taken 252 damage from Evan, leaving them at -154 health.
+[18:00:53]	Bot08 has taken 2 damage from Evan, leaving them at 55 health.
+[18:00:53]	Bot24 has taken 18 damage from Evan, leaving them at 10 health.
+[18:00:53]	Bot08 has taken 2 damage from Evan, leaving them at 53 health.
+[18:00:53]	Bot08 has taken 18 damage from Evan, leaving them at 35 health.
+[18:00:53]	Bot08 has taken 252 damage from Evan, leaving them at -217 health.
+[18:00:54]	Bot39 has taken 252 damage from Evan, leaving them at -156 health.
+[18:00:54]	Bot16 has taken 252 damage from Evan, leaving them at -152 health.
+[18:00:54]	Bot16 has taken 252 damage from Evan, leaving them at -152 health.
+[18:00:55]	Bot32 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:55]	Bot32 has taken 252 damage from Evan, leaving them at -170 health.
+[18:00:56]	Bot39 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:56]	Bot39 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:56]	Bot32 has taken 18 damage from Evan, leaving them at 82 health.
+[18:00:56]	Bot39 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:56]	Bot32 has taken 18 damage from Evan, leaving them at 64 health.
+[18:00:56]	Bot32 has taken 18 damage from Evan, leaving them at 46 health.
+[18:00:57]	Bot39 has taken 18 damage from Evan, leaving them at 28 health.
+[18:00:57]	Bot39 has taken 18 damage from Evan, leaving them at 10 health.
+[18:00:57]	Bot39 has taken 18 damage from Evan, leaving them at -8 health.
+[18:00:57]	Bot32 has taken 18 damage from Evan, leaving them at 28 health.
+[18:00:59]	Bot32 has taken 18 damage from Evan, leaving them at 10 health.
+[18:00:59]	Bot32 has taken 252 damage from Evan, leaving them at -242 health.
+[18:00:59]	Bot24 has taken 18 damage from Evan, leaving them at -8 health.
+[18:01:01]	Bot24 has taken 252 damage from Evan, leaving them at -152 health.
+[18:01:03]	Bot16 has taken 252 damage from Evan, leaving them at -170 health.
+[18:01:03]	Bot16 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:04]	Bot16 has taken 18 damage from Evan, leaving them at 80 health.
+[18:01:04]	Bot16 has taken 18 damage from Evan, leaving them at 62 health.
+[18:01:04]	Bot32 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:04]	Bot32 has taken 18 damage from Evan, leaving them at 64 health.
+[18:01:04]	Bot16 has taken 2 damage from Evan, leaving them at 60 health.
+[18:01:04]	Bot16 has taken 2 damage from Evan, leaving them at 58 health.
+[18:01:04]	Bot16 has taken 18 damage from Evan, leaving them at 40 health.
+[18:01:04]	Bot16 has taken 2 damage from Evan, leaving them at 80 health.
+[18:01:04]	Bot16 has taken 2 damage from Evan, leaving them at 37 health.
+[18:01:04]	Bot16 has taken 2 damage from Evan, leaving them at 78 health.
+[18:01:04]	Bot16 has taken 18 damage from Evan, leaving them at 60 health.
+[18:01:04]	Bot16 has taken 18 damage from Evan, leaving them at 42 health.
+[18:01:04]	Bot16 has taken 18 damage from Evan, leaving them at 24 health.
+[18:01:05]	Bot16 has taken 18 damage from Evan, leaving them at 6 health.
+[18:01:05]	Bot16 has taken 18 damage from Evan, leaving them at -12 health.
+[18:01:05]	Bot16 has taken 2 damage from Evan, leaving them at 35 health.
+[18:01:05]	Bot16 has taken 252 damage from Evan, leaving them at -217 health.
+[18:01:05]	Bot32 has taken 252 damage from Evan, leaving them at -188 health.
+[18:01:07]	Bot24 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:08]	Bot24 has taken 252 damage from Evan, leaving them at -170 health.
+[18:01:08]	Bot16 has taken 252 damage from Evan, leaving them at -152 health.
+[18:01:09]	Bot08 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:10]	Bot16 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:10]	Bot08 has taken 18 damage from Evan, leaving them at 64 health.
+[18:01:10]	Bot32 has taken 18 damage from Evan, leaving them at 44 health.
+[18:01:11]	Bot08 has taken 252 damage from Evan, leaving them at -188 health.
+[18:01:11]	Bot08 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:12]	Bot08 has taken 252 damage from Evan, leaving them at -170 health.
+[18:01:13]	Bot32 has taken 18 damage from Evan, leaving them at 26 health.
+[18:01:13]	Bot32 has taken 18 damage from Evan, leaving them at 82 health.
+[18:01:13]	Bot32 has taken 252 damage from Evan, leaving them at -226 health.
+[18:01:13]	Bot32 has taken 252 damage from Evan, leaving them at -152 health.
+[18:01:13]	Bot32 has taken 18 damage from Evan, leaving them at 64 health.
+[18:01:13]	Bot32 has taken 2 damage from Evan, leaving them at 62 health.
+[18:04:02]	[IC] Evan: !bring *
+[18:05:29]	[IC] Evan: nigga
+[18:07:05]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[18:12:21]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[18:12:32]	NZERA loaded the character #1(Evan)
+[18:12:53]	Bot01 loaded the character #1590599573(Bot01)
+[18:12:53]	Bot02 loaded the character #1590599573(Bot02)
+[18:12:53]	Bot03 loaded the character #1590599573(Bot03)
+[18:12:53]	Bot04 loaded the character #1590599573(Bot04)
+[18:12:53]	Bot05 loaded the character #1590599573(Bot05)
+[18:12:53]	Bot06 loaded the character #1590599573(Bot06)
+[18:12:53]	Bot07 loaded the character #1590599573(Bot07)
+[18:12:54]	Bot08 loaded the character #1590599574(Bot08)
+[18:12:54]	Bot09 loaded the character #1590599574(Bot09)
+[18:12:54]	Bot10 loaded the character #1590599574(Bot10)
+[18:12:54]	Bot11 loaded the character #1590599574(Bot11)
+[18:12:54]	Bot12 loaded the character #1590599574(Bot12)
+[18:12:54]	Bot13 loaded the character #1590599574(Bot13)
+[18:12:54]	Bot14 loaded the character #1590599574(Bot14)
+[18:12:54]	Bot15 loaded the character #1590599574(Bot15)
+[18:12:54]	Bot16 loaded the character #1590599574(Bot16)
+[18:12:54]	Bot17 loaded the character #1590599574(Bot17)
+[18:12:54]	Bot18 loaded the character #1590599574(Bot18)
+[18:12:54]	Bot19 loaded the character #1590599574(Bot19)
+[18:12:54]	Bot20 loaded the character #1590599574(Bot20)
+[18:12:54]	Bot21 loaded the character #1590599574(Bot21)
+[18:12:54]	Bot22 loaded the character #1590599574(Bot22)
+[18:12:54]	Bot23 loaded the character #1590599574(Bot23)
+[18:12:54]	Bot24 loaded the character #1590599574(Bot24)
+[18:12:54]	Bot25 loaded the character #1590599574(Bot25)
+[18:12:54]	Bot26 loaded the character #1590599574(Bot26)
+[18:12:54]	Bot27 loaded the character #1590599574(Bot27)
+[18:12:54]	Bot28 loaded the character #1590599574(Bot28)
+[18:12:54]	Bot29 loaded the character #1590599574(Bot29)
+[18:12:54]	Bot30 loaded the character #1590599574(Bot30)
+[18:12:54]	Bot31 loaded the character #1590599574(Bot31)
+[18:12:54]	Bot32 loaded the character #1590599574(Bot32)
+[18:12:54]	Bot33 loaded the character #1590599574(Bot33)
+[18:12:54]	Bot34 loaded the character #1590599574(Bot34)
+[18:12:54]	Bot35 loaded the character #1590599574(Bot35)
+[18:12:54]	Bot36 loaded the character #1590599574(Bot36)
+[18:12:54]	Bot37 loaded the character #1590599574(Bot37)
+[18:12:55]	Bot38 loaded the character #1590599575(Bot38)
+[18:12:55]	Bot39 loaded the character #1590599575(Bot39)
+[18:12:58]	[IC] Evan: !bring *
+[18:13:26]	[IC] Evan: !bring *
+[18:13:38]	[IC] Evan: nigga
+[18:13:54]	[IC] Evan: !bring *
+[18:13:57]	[IC] Evan: !jailtp *(
+[18:14:00]	[IC] Evan: !god *
+[18:14:19]	Bot39 has disconnected from the server.
+[18:14:20]	Bot37 has disconnected from the server.
+[18:14:21]	Bot37 has disconnected from the server.
+[18:14:21]	Bot37 has disconnected from the server.
+[18:14:22]	Bot37 has disconnected from the server.
+[18:14:22]	Bot37 has disconnected from the server.
+[18:14:22]	Bot37 has disconnected from the server.
+[18:14:23]	Bot37 has disconnected from the server.
+[18:14:23]	Bot37 has disconnected from the server.
+[18:14:23]	Bot37 has disconnected from the server.
+[18:14:24]	Bot37 has disconnected from the server.
+[18:14:24]	Bot37 has disconnected from the server.
+[18:14:25]	Bot37 has disconnected from the server.
+[18:14:25]	Bot37 has disconnected from the server.
+[18:14:25]	Bot37 has disconnected from the server.
+[18:14:26]	Bot37 has disconnected from the server.
+[18:14:26]	Bot37 has disconnected from the server.
+[18:14:27]	Bot37 has disconnected from the server.
+[18:14:29]	Bot07 has disconnected from the server.
+[18:14:30]	Bot07 has disconnected from the server.
+[18:14:30]	Bot07 has disconnected from the server.
+[18:14:30]	Bot07 has disconnected from the server.
+[18:14:31]	Bot07 has disconnected from the server.
+[18:14:31]	Bot07 has disconnected from the server.
+[18:14:32]	Bot07 has disconnected from the server.
+[18:14:33]	Bot37 has disconnected from the server.
+[18:14:33]	Bot37 has disconnected from the server.
+[18:14:34]	Bot37 has disconnected from the server.
+[18:14:34]	Bot37 has disconnected from the server.
+[18:14:35]	Bot37 has disconnected from the server.
+[18:14:35]	Bot37 has disconnected from the server.
+[18:14:35]	Bot37 has disconnected from the server.
+[18:14:36]	Bot37 has disconnected from the server.
+[18:14:36]	Bot37 has disconnected from the server.
+[18:14:36]	Bot37 has disconnected from the server.
+[18:14:37]	Bot37 has disconnected from the server.
+[18:14:37]	Bot37 has disconnected from the server.
+[18:14:38]	Bot37 has disconnected from the server.
+[18:14:39]	Bot39 has disconnected from the server.
+[18:14:47]	Bot40 loaded the character #1590599687(Bot40)
+[18:14:48]	Bot41 loaded the character #1590599688(Bot41)
+[18:14:49]	Bot42 loaded the character #1590599689(Bot42)
+[18:14:49]	Bot43 loaded the character #1590599689(Bot43)
+[18:14:50]	Bot44 loaded the character #1590599690(Bot44)
+[18:14:51]	Bot45 loaded the character #1590599691(Bot45)
+[18:14:52]	Bot46 loaded the character #1590599692(Bot46)
+[18:14:52]	Bot47 loaded the character #1590599692(Bot47)
+[18:14:53]	Bot48 loaded the character #1590599693(Bot48)
+[18:14:54]	Bot49 loaded the character #1590599694(Bot49)
+[18:14:54]	Bot50 loaded the character #1590599694(Bot50)
+[18:14:55]	Bot51 loaded the character #1590599695(Bot51)
+[18:14:56]	Bot52 loaded the character #1590599696(Bot52)
+[18:14:57]	Bot53 loaded the character #1590599697(Bot53)
+[18:14:58]	Bot54 loaded the character #1590599698(Bot54)
+[18:14:59]	Bot55 loaded the character #1590599699(Bot55)
+[18:14:59]	Bot56 loaded the character #1590599699(Bot56)
+[18:15:02]	Bot57 loaded the character #1590599702(Bot57)
+[18:15:03]	Bot58 loaded the character #1590599703(Bot58)
+[18:15:04]	Bot59 loaded the character #1590599704(Bot59)
+[18:15:04]	Bot60 loaded the character #1590599704(Bot60)
+[18:15:05]	Bot61 loaded the character #1590599705(Bot61)
+[18:15:06]	Bot62 loaded the character #1590599706(Bot62)
+[18:15:17]	[IC] Evan: !bring *
+[18:16:16]	[IC] Evan: nigga
+[19:51:36]	Bot51 has taken 112 damage from Evan, leaving them at -12 health.
+[19:51:55]	Bot51 has taken 112 damage from Evan, leaving them at -13 health.
+[19:52:54]	Bot51 has taken 1575 damage from Evan, leaving them at -1475 health.
+[19:53:22]	Bot51 has taken 112 damage from Evan, leaving them at -12 health.
+[19:56:21]	Bot51 has taken 1575 damage from Evan, leaving them at -1475 health.
+[19:56:59]	Bot51 has taken 1575 damage from Evan, leaving them at -1475 health.
+[19:57:51]	Bot51 has taken 6 damage from Evan, leaving them at 94 health.
+[19:57:51]	Bot51 has taken 6 damage from Evan, leaving them at 88 health.
+[19:57:51]	Bot51 has taken 6 damage from Evan, leaving them at 82 health.
+[19:57:51]	Bot51 has taken 6 damage from Evan, leaving them at 76 health.
+[19:57:51]	Bot51 has taken 6 damage from Evan, leaving them at 70 health.
+[19:57:51]	Bot51 has taken 6 damage from Evan, leaving them at 64 health.
+[19:57:53]	Bot51 has taken 84 damage from Evan, leaving them at -20 health.
+[19:58:19]	Bot51 has taken 252 damage from Evan, leaving them at -152 health.
+[19:58:36]	Bot51 has taken 18 damage from Evan, leaving them at 82 health.
+[19:58:36]	Bot51 has taken 18 damage from Evan, leaving them at 64 health.
+[19:58:36]	Bot51 has taken 18 damage from Evan, leaving them at 46 health.
+[19:58:36]	Bot51 has taken 18 damage from Evan, leaving them at 28 health.
+[19:58:37]	Bot51 has taken 18 damage from Evan, leaving them at 10 health.
+[19:58:37]	Bot51 has taken 18 damage from Evan, leaving them at -8 health.
+[19:58:58]	Bot51 has taken 2 damage from Evan, leaving them at 98 health.
+[19:58:58]	Bot51 has taken 2 damage from Evan, leaving them at 95 health.
+[19:58:59]	Bot51 has taken 252 damage from Evan, leaving them at -157 health.
+[20:01:33]	Bot51 has taken 18 damage from Evan, leaving them at 82 health.
+[20:01:33]	Bot51 has taken 252 damage from Evan, leaving them at -170 health.
+[20:01:39]	Bot51 has taken 18 damage from Evan, leaving them at 82 health.
+[20:01:40]	Bot51 has taken 18 damage from Evan, leaving them at 64 health.
+[20:01:40]	Bot51 has taken 18 damage from Evan, leaving them at 46 health.
+[20:01:40]	Bot51 has taken 18 damage from Evan, leaving them at 28 health.
+[20:01:40]	Bot51 has taken 18 damage from Evan, leaving them at 10 health.
+[20:01:40]	Bot51 has taken 252 damage from Evan, leaving them at -242 health.
+[20:02:26]	Bot48 has taken 2 damage from Evan, leaving them at 98 health.
+[20:02:26]	Bot48 has taken 2 damage from Evan, leaving them at 96 health.
+[20:02:27]	Bot48 has taken 18 damage from Evan, leaving them at 78 health.
+[20:02:28]	Bot48 has taken 2 damage from Evan, leaving them at 76 health.
+[20:02:29]	Bot48 has taken 18 damage from Evan, leaving them at 58 health.
+[20:02:47]	Bot48 has taken 47 damage from Evan, leaving them at 11 health.
+[20:02:51]	Bot48 has taken 148 damage from Evan, leaving them at -137 health.
+[20:02:51]	Evan has taken 5 damage from Evan, leaving them at 95 health.
+[20:03:02]	Evan has taken 35 damage from Evan, leaving them at 60 health.
+[20:03:02]	Bot51 has taken 61 damage from Evan, leaving them at 40 health.
+[20:03:02]	Bot48 has taken 148 damage from Evan, leaving them at -48 health.
+[20:03:22]	Bot51 has taken 148 damage from Evan, leaving them at -108 health.
+[20:03:22]	Evan has taken 13 damage from Evan, leaving them at 46 health.
+[20:03:26]	Bot48 has taken 18 damage from Evan, leaving them at 82 health.
+[20:03:26]	Bot48 has taken 18 damage from Evan, leaving them at 64 health.
+[20:03:26]	Bot48 has taken 18 damage from Evan, leaving them at 46 health.
+[20:03:26]	Bot48 has taken 18 damage from Evan, leaving them at 28 health.
+[20:03:27]	Bot48 has taken 18 damage from Evan, leaving them at 10 health.
+[20:03:27]	Bot48 has taken 18 damage from Evan, leaving them at -8 health.
+[20:03:28]	Bot51 has taken 2 damage from Evan, leaving them at 98 health.
+[20:03:28]	Bot51 has taken 18 damage from Evan, leaving them at 80 health.
+[20:03:28]	Bot51 has taken 18 damage from Evan, leaving them at 62 health.
+[20:03:28]	Bot51 has taken 18 damage from Evan, leaving them at 44 health.
+[20:03:28]	Bot51 has taken 18 damage from Evan, leaving them at 26 health.
+[20:03:28]	Bot51 has taken 18 damage from Evan, leaving them at 8 health.
+[20:03:29]	Bot51 has taken 2 damage from Evan, leaving them at 6 health.
+[20:03:29]	Bot51 has taken 18 damage from Evan, leaving them at -12 health.
+[20:03:33]	Bot48 has taken 2 damage from Evan, leaving them at 98 health.
+[20:03:33]	Bot48 has taken 18 damage from Evan, leaving them at 80 health.
+[20:03:33]	Bot48 has taken 18 damage from Evan, leaving them at 62 health.
+[20:03:34]	Bot48 has taken 18 damage from Evan, leaving them at 44 health.
+[20:03:37]	Bot48 has taken 18 damage from Evan, leaving them at 26 health.
+[20:03:37]	Bot48 has taken 2 damage from Evan, leaving them at 24 health.
+[20:03:37]	Bot48 has taken 2 damage from Evan, leaving them at 21 health.
+[20:03:37]	Bot48 has taken 18 damage from Evan, leaving them at 3 health.
+[20:03:38]	Bot48 has taken 18 damage from Evan, leaving them at -15 health.
+[20:03:40]	Bot51 has taken 2 damage from Evan, leaving them at 97 health.
+[20:03:40]	Bot51 has taken 2 damage from Evan, leaving them at 95 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 93 health.
+[20:03:41]	Bot51 has taken 18 damage from Evan, leaving them at 75 health.
+[20:03:41]	Bot51 has taken 18 damage from Evan, leaving them at 57 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 55 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 52 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 50 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 48 health.
+[20:03:41]	Bot51 has taken 18 damage from Evan, leaving them at 30 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 28 health.
+[20:03:41]	Bot51 has taken 2 damage from Evan, leaving them at 25 health.
+[20:03:41]	Bot51 has taken 18 damage from Evan, leaving them at 7 health.
+[20:03:41]	Bot51 has taken 18 damage from Evan, leaving them at -11 health.
+[20:03:45]	Bot48 has taken 112 damage from Evan, leaving them at -11 health.
+[20:06:27]	Bot48 has taken 115 damage from Evan, leaving them at -15 health.
+[20:07:06]	Bot48 has taken 2 damage from Evan, leaving them at 97 health.
+[20:07:16]	Evan has taken 42 damage from Evan, leaving them at 5 health.
+[20:07:16]	Bot48 has taken 47 damage from Evan, leaving them at 51 health.
+[20:07:19]	Bot48 has taken 252 damage from Evan, leaving them at -201 health.
+[20:07:38]	Evan has taken 8 damage from Evan, leaving them at -3 health.
+[20:08:05]	[IC] Evan: !kick bot51
+[20:08:05]	Bot51 has disconnected from the server.
+[20:08:29]	[IC] Evan: !kick bot48
+[20:08:29]	Bot48 has disconnected from the server.
+[20:08:42]	[IC] Evan: !kick bot40
+[20:08:42]	Bot40 has disconnected from the server.
+[20:08:44]	[IC] Evan: !kickbot40
+[20:08:48]	[IC] Evan: !kick bot40
+[20:11:46]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[20:14:27]	NZERA loaded the character #1(Evan)
+[20:14:35]	Bot63 loaded the character #1590606875(Bot63)
+[20:14:41]	Bot63 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:16:50]	[IC] Evan: !bring *
+[20:17:31]	Bot63 has taken 540 damage from Evan, leaving them at -483 health.
+[20:17:38]	Bot63 has taken 37 damage from Evan, leaving them at 63 health.
+[20:17:39]	Bot63 has taken 18 damage from Evan, leaving them at 45 health.
+[20:18:03]	Bot63 has taken 43 damage from Evan, leaving them at 3 health.
+[20:20:44]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[20:24:48]	NZERA loaded the character #1(Evan)
+[20:25:14]	Bot64 loaded the character #1590607514(Bot64)
+[20:25:18]	Bot64 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:25:25]	[IC] Evan: !kick bot
+[20:25:25]	Bot64 has disconnected from the server.
+[20:26:28]	[IC] Evan: nigga
+[20:26:31]	Bot65 loaded the character #1590607591(Bot65)
+[20:26:32]	Bot66 loaded the character #1590607592(Bot66)
+[20:26:32]	Bot67 loaded the character #1590607592(Bot67)
+[20:26:33]	Bot68 loaded the character #1590607593(Bot68)
+[20:26:35]	Bot69 loaded the character #1590607595(Bot69)
+[20:26:35]	Bot70 loaded the character #1590607595(Bot70)
+[20:26:35]	Bot71 loaded the character #1590607595(Bot71)
+[20:26:35]	Bot72 loaded the character #1590607595(Bot72)
+[20:26:36]	Bot73 loaded the character #1590607596(Bot73)
+[20:26:36]	Bot74 loaded the character #1590607596(Bot74)
+[20:26:36]	Bot75 loaded the character #1590607596(Bot75)
+[20:26:36]	Bot76 loaded the character #1590607596(Bot76)
+[20:26:36]	Bot77 loaded the character #1590607596(Bot77)
+[20:26:36]	Bot78 loaded the character #1590607596(Bot78)
+[20:26:36]	Bot79 loaded the character #1590607596(Bot79)
+[20:26:36]	Bot80 loaded the character #1590607596(Bot80)
+[20:26:37]	Bot81 loaded the character #1590607597(Bot81)
+[20:26:37]	Bot82 loaded the character #1590607597(Bot82)
+[20:26:37]	Bot83 loaded the character #1590607597(Bot83)
+[20:26:37]	Bot84 loaded the character #1590607597(Bot84)
+[20:26:37]	Bot85 loaded the character #1590607597(Bot85)
+[20:26:37]	Bot86 loaded the character #1590607597(Bot86)
+[20:26:37]	Bot87 loaded the character #1590607597(Bot87)
+[20:26:37]	Bot88 loaded the character #1590607597(Bot88)
+[20:26:38]	Bot67 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:38]	Bot89 loaded the character #1590607598(Bot89)
+[20:26:38]	Bot90 loaded the character #1590607598(Bot90)
+[20:26:38]	Bot91 loaded the character #1590607598(Bot91)
+[20:26:38]	Bot92 loaded the character #1590607598(Bot92)
+[20:26:38]	Bot93 loaded the character #1590607598(Bot93)
+[20:26:38]	Bot94 loaded the character #1590607598(Bot94)
+[20:26:38]	Bot95 loaded the character #1590607598(Bot95)
+[20:26:38]	Bot96 loaded the character #1590607598(Bot96)
+[20:26:39]	Bot97 loaded the character #1590607599(Bot97)
+[20:26:39]	Bot98 loaded the character #1590607599(Bot98)
+[20:26:39]	Bot99 loaded the character #1590607599(Bot99)
+[20:26:39]	Bot100 loaded the character #1590607599(Bot100)
+[20:26:39]	Bot101 loaded the character #1590607599(Bot101)
+[20:26:39]	Bot102 loaded the character #1590607599(Bot102)
+[20:26:39]	Bot103 loaded the character #1590607599(Bot103)
+[20:26:40]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:41]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:41]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:42]	Bot88 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:26:42]	Bot65 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:42]	Bot72 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:42]	Bot96 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:26:44]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:44]	Bot96 has taken 19 damage from worldspawn, leaving them at 82 health.
+[20:26:44]	Bot67 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:44]	Bot68 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:26:45]	Bot80 has taken 19 damage from worldspawn, leaving them at 82 health.
+[20:26:45]	Bot96 has taken 19 damage from worldspawn, leaving them at 82 health.
+[20:26:45]	Bot72 has taken 2 damage from worldspawn, leaving them at 98 health.
+[20:26:46]	Bot72 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:26:46]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:46]	Bot96 has taken 2 damage from worldspawn, leaving them at 98 health.
+[20:26:47]	Bot103 has taken 2 damage from worldspawn, leaving them at 98 health.
+[20:26:47]	Bot72 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:47]	Bot103 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:47]	Bot103 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:48]	Bot88 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:26:48]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:49]	Bot80 has taken 19 damage from worldspawn, leaving them at 82 health.
+[20:26:49]	Bot96 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:50]	Bot96 has taken 19 damage from worldspawn, leaving them at 82 health.
+[20:26:50]	Bot103 has taken 2 damage from worldspawn, leaving them at 98 health.
+[20:26:50]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:51]	Bot80 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:26:51]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:51]	Bot103 has taken 2 damage from worldspawn, leaving them at 98 health.
+[20:26:54]	Bot103 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:55]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:26:56]	[IC] Evan: !bring *
+[20:37:13]	Bot96 has taken 35 damage from Evan, leaving them at 46 health.
+[20:37:13]	Bot96 has taken 14 damage from Evan, leaving them at 68 health.
+[20:37:13]	Bot88 has taken 120 damage from Evan, leaving them at -62 health.
+[20:37:14]	Bot88 has taken 82 damage from Evan, leaving them at -25 health.
+[20:37:14]	Bot88 has taken 149 damage from Evan, leaving them at -92 health.
+[20:37:14]	Bot96 has taken 52 damage from Evan, leaving them at 48 health.
+[20:37:14]	Bot72 has taken 43 damage from Evan, leaving them at 14 health.
+[20:37:14]	Bot103 has taken 82 damage from Evan, leaving them at -25 health.
+[20:37:14]	Bot103 has taken 25 damage from Evan, leaving them at 73 health.
+[20:37:14]	Bot103 has taken 43 damage from Evan, leaving them at 55 health.
+[20:37:14]	Bot103 has taken 57 damage from Evan, leaving them at 41 health.
+[20:37:14]	Bot103 has taken 158 damage from Evan, leaving them at -101 health.
+[20:37:14]	Bot103 has taken 129 damage from Evan, leaving them at -72 health.
+[20:37:14]	Bot96 has taken 40 damage from Evan, leaving them at 42 health.
+[20:37:14]	Bot96 has taken 27 damage from Evan, leaving them at 43 health.
+[20:37:14]	Bot96 has taken 28 damage from Evan, leaving them at 70 health.
+[20:37:14]	Bot72 has taken 19 damage from Evan, leaving them at 51 health.
+[20:37:14]	Bot72 has taken 23 damage from Evan, leaving them at 34 health.
+[20:37:14]	Bot88 has taken 44 damage from Evan, leaving them at 13 health.
+[20:37:14]	Bot88 has taken 64 damage from Evan, leaving them at 6 health.
+[20:37:14]	Bot88 has taken 190 damage from Evan, leaving them at -121 health.
+[20:37:14]	Bot88 has taken 168 damage from Evan, leaving them at -111 health.
+[20:37:14]	Bot67 has taken 42 damage from Evan, leaving them at 15 health.
+[20:37:14]	Bot67 has taken 137 damage from Evan, leaving them at -80 health.
+[20:37:14]	Bot65 has taken 173 damage from Evan, leaving them at -116 health.
+[20:37:14]	Bot68 has taken 21 damage from Evan, leaving them at 48 health.
+[20:37:22]	Bot103 has taken 22 damage from Evan, leaving them at 33 health.
+[20:37:22]	Bot103 has taken 7 damage from Evan, leaving them at 34 health.
+[20:37:22]	Bot88 has taken 3 damage from Evan, leaving them at 10 health.
+[20:37:22]	Bot96 has taken 34 damage from Evan, leaving them at 37 health.
+[20:37:22]	Bot103 has taken 31 damage from Evan, leaving them at 42 health.
+[20:37:22]	Bot96 has taken 38 damage from Evan, leaving them at 4 health.
+[20:37:22]	Bot72 has taken 56 damage from Evan, leaving them at -5 health.
+[20:37:22]	Bot96 has taken 17 damage from Evan, leaving them at 25 health.
+[20:37:22]	Bot72 has taken 10 damage from Evan, leaving them at 4 health.
+[20:37:22]	Bot96 has taken 55 damage from Evan, leaving them at 2 health.
+[20:37:22]	Bot80 has taken 16 damage from Evan, leaving them at 65 health.
+[20:37:22]	Bot80 has taken 38 damage from Evan, leaving them at 44 health.
+[20:37:22]	Bot80 has taken 133 damage from Evan, leaving them at -63 health.
+[20:37:22]	Bot80 has taken 164 damage from Evan, leaving them at -107 health.
+[20:37:22]	Bot72 has taken 130 damage from Evan, leaving them at -32 health.
+[20:37:22]	Bot96 has taken 55 damage from Evan, leaving them at 45 health.
+[20:37:22]	Bot80 has taken 43 damage from Evan, leaving them at 14 health.
+[20:37:22]	Bot80 has taken 7 damage from Evan, leaving them at 50 health.
+[20:37:22]	Bot80 has taken 119 damage from Evan, leaving them at -19 health.
+[20:37:24]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:24]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:26]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:27]	Bot88 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:29]	Bot80 has taken 44 damage from Evan, leaving them at 21 health.
+[20:37:29]	Bot96 has taken 20 damage from Evan, leaving them at 27 health.
+[20:37:29]	Bot96 has taken 25 damage from Evan, leaving them at 43 health.
+[20:37:29]	Bot96 has taken 162 damage from Evan, leaving them at -160 health.
+[20:37:29]	Bot96 has taken 142 damage from Evan, leaving them at -137 health.
+[20:37:29]	Bot80 has taken 136 damage from Evan, leaving them at -92 health.
+[20:37:29]	Bot103 has taken 120 damage from Evan, leaving them at -78 health.
+[20:37:29]	Bot96 has taken 100 damage from Evan, leaving them at -63 health.
+[20:37:29]	Bot103 has taken 95 damage from Evan, leaving them at -62 health.
+[20:37:29]	Bot96 has taken 106 damage from Evan, leaving them at -81 health.
+[20:37:29]	Bot72 has taken 65 damage from Evan, leaving them at -61 health.
+[20:37:29]	Bot103 has taken 64 damage from Evan, leaving them at -30 health.
+[20:37:29]	Bot88 has taken 21 damage from Evan, leaving them at -11 health.
+[20:37:29]	Bot96 has taken 35 damage from Evan, leaving them at 13 health.
+[20:37:29]	Bot72 has taken 22 damage from Evan, leaving them at 13 health.
+[20:37:29]	Bot67 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:30]	Bot88 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:31]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:31]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:33]	Bot72 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:33]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:33]	Bot72 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:33]	Bot80 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:34]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:35]	Bot65 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:37]	Bot96 has taken 11 damage from Evan, leaving them at 16 health.
+[20:37:37]	Bot72 has taken 225 damage from Evan, leaving them at -212 health.
+[20:37:38]	Bot96 has taken 179 damage from Evan, leaving them at -166 health.
+[20:37:38]	Bot88 has taken 168 damage from Evan, leaving them at -162 health.
+[20:37:38]	Bot67 has taken 177 damage from Evan, leaving them at -162 health.
+[20:37:38]	Bot103 has taken 70 damage from Evan, leaving them at 31 health.
+[20:37:38]	Bot68 has taken 188 damage from Evan, leaving them at -139 health.
+[20:37:40]	Bot103 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:41]	Bot88 has taken 68 damage from Evan, leaving them at 32 health.
+[20:37:41]	Bot96 has taken 225 damage from Evan, leaving them at -209 health.
+[20:37:41]	Bot80 has taken 71 damage from Evan, leaving them at -50 health.
+[20:37:41]	Bot96 has taken 196 damage from Evan, leaving them at -153 health.
+[20:37:42]	Bot96 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:42]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:44]	Bot72 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:44]	Bot96 has taken 86 damage from Evan, leaving them at -41 health.
+[20:37:44]	Bot80 has taken 89 damage from Evan, leaving them at -75 health.
+[20:37:44]	Bot80 has taken 225 damage from Evan, leaving them at -175 health.
+[20:37:45]	Bot96 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:37:47]	Bot88 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:48]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:48]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:48]	Bot96 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:49]	Bot68 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:49]	Bot88 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:49]	Bot103 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:37:51]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:53]	Bot96 has taken 31 damage from worldspawn, leaving them at 69 health.
+[20:37:53]	Bot72 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:55]	Bot96 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:56]	Bot96 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:37:56]	Bot96 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:58]	Bot67 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:59]	Bot96 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:37:59]	Bot80 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:38:01]	Bot103 has taken 18 damage from Evan, leaving them at 13 health.
+[20:38:02]	Bot103 has taken 276 damage from Evan, leaving them at -263 health.
+[20:38:03]	Bot88 has taken 36 damage from Evan, leaving them at -4 health.
+[20:38:04]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:38:04]	Bot80 has taken 30 damage from Evan, leaving them at 27 health.
+[20:38:12]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:38:17]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:39:17]	[IC] Evan: !bring *
+[20:41:49]	Bot72 has taken 35 damage from Evan, leaving them at 21 health.
+[20:41:50]	Bot103 has taken 78 damage from Evan, leaving them at -9 health.
+[20:41:50]	Bot103 has taken 61 damage from Evan, leaving them at -4 health.
+[20:41:50]	Bot103 has taken 40 damage from Evan, leaving them at 16 health.
+[20:41:50]	Bot103 has taken 38 damage from Evan, leaving them at 19 health.
+[20:41:50]	Bot96 has taken 225 damage from Evan, leaving them at -168 health.
+[20:41:50]	Bot88 has taken 159 damage from Evan, leaving them at -103 health.
+[20:41:50]	Bot88 has taken 131 damage from Evan, leaving them at -75 health.
+[20:41:50]	Bot88 has taken 91 damage from Evan, leaving them at -35 health.
+[20:41:50]	Bot88 has taken 49 damage from Evan, leaving them at 8 health.
+[20:41:50]	Bot88 has taken 19 damage from Evan, leaving them at 38 health.
+[20:41:50]	Bot88 has taken 17 damage from Evan, leaving them at 40 health.
+[20:41:50]	Bot80 has taken 123 damage from Evan, leaving them at -66 health.
+[20:41:50]	Bot72 has taken 101 damage from Evan, leaving them at -45 health.
+[20:41:50]	Bot72 has taken 35 damage from Evan, leaving them at 21 health.
+[20:41:50]	Bot96 has taken 32 damage from Evan, leaving them at 24 health.
+[20:41:50]	Bot96 has taken 34 damage from Evan, leaving them at 23 health.
+[20:41:50]	Bot96 has taken 200 damage from Evan, leaving them at -132 health.
+[20:41:50]	Bot80 has taken 169 damage from Evan, leaving them at -112 health.
+[20:41:50]	Bot80 has taken 8 damage from Evan, leaving them at 19 health.
+[20:41:50]	Bot103 has taken 45 damage from Evan, leaving them at 12 health.
+[20:41:50]	Bot103 has taken 138 damage from Evan, leaving them at -81 health.
+[20:41:50]	Bot103 has taken 165 damage from Evan, leaving them at -109 health.
+[20:41:50]	Bot96 has taken 73 damage from Evan, leaving them at -16 health.
+[20:41:50]	Bot96 has taken 15 damage from Evan, leaving them at 54 health.
+[20:41:50]	Bot96 has taken 77 damage from Evan, leaving them at -20 health.
+[20:41:50]	Bot96 has taken 97 damage from Evan, leaving them at -40 health.
+[20:41:50]	Bot80 has taken 42 damage from Evan, leaving them at 15 health.
+[20:41:50]	Bot80 has taken 54 damage from Evan, leaving them at 3 health.
+[20:41:50]	Bot80 has taken 21 damage from Evan, leaving them at 36 health.
+[20:41:50]	Bot80 has taken 51 damage from Evan, leaving them at 5 health.
+[20:41:50]	Bot88 has taken 34 damage from Evan, leaving them at 22 health.
+[20:42:00]	Bot96 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:42:02]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:03]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:42:04]	Bot80 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:04]	Bot96 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:04]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:05]	Bot80 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:42:08]	Bot103 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:42:08]	Bot96 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:42:08]	Bot103 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:09]	Bot72 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:10]	Bot88 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:11]	Bot96 has taken 43 damage from worldspawn, leaving them at 56 health.
+[20:42:13]	Bot96 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:17]	Bot103 has taken 43 damage from worldspawn, leaving them at 57 health.
+[20:42:19]	Evan has disconnected from the server.
+[20:42:19]	Bot65 has disconnected from the server.
+[20:42:19]	Bot67 has disconnected from the server.
+[20:42:19]	Bot67 has disconnected from the server.
+[20:42:19]	Bot68 has disconnected from the server.
+[20:42:19]	Bot72 has disconnected from the server.
+[20:42:19]	Bot72 has disconnected from the server.
+[20:42:19]	Bot72 has disconnected from the server.
+[20:42:19]	Bot72 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot80 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot88 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot96 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:19]	Bot103 has disconnected from the server.
+[20:42:42]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[20:42:49]	NZERA loaded the character #1(Evan)
+[20:44:45]	Evan has disconnected from the server.
+[22:23:33]	Bot01 loaded the character #1590614613(Bot01)
+[22:23:33]	Bot01 has disconnected from the server.
+[22:24:41]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[22:25:03]	NZERA(STEAM_0:0:15927175) deleted character (1)
+[22:25:22]	NZERA created the character #2(Evan)
+[22:25:22]	NZERA's money has changed by 0.
+[22:25:24]	NZERA loaded the character #2(Evan)
+[22:48:26]	Evan has taken 64 damage from worldspawn, leaving them at 36 health.
+[22:48:36]	Evan has taken 4 damage from npc_combine_s, leaving them at 32 health.
+[22:48:39]	Evan has taken 1 damage from npc_combine_s, leaving them at 31 health.
+[22:48:39]	Evan has taken 1 damage from npc_combine_s, leaving them at 30 health.
+[22:48:42]	Evan has taken 4 damage from npc_combine_s, leaving them at 25 health.
+[22:48:46]	Evan has taken 4 damage from npc_combine_s, leaving them at 21 health.
+[22:48:51]	Evan has taken 80 damage from npc_grenade_frag, leaving them at -59 health.
+[22:49:13]	Evan has taken 63 damage from npc_combine_s, leaving them at 37 health.
+[22:49:13]	Evan has taken 4 damage from npc_combine_s, leaving them at 33 health.
+[22:49:19]	Evan has taken 35 damage from grenade_helicopter, leaving them at 64 health.
+[22:49:42]	Evan has taken 4 damage from npc_combine_s, leaving them at 99 health.
+[22:49:56]	Evan has taken 63 damage from npc_combine_s, leaving them at 87 health.
+[22:49:57]	Evan has taken 63 damage from npc_combine_s, leaving them at 74 health.
+[22:50:20]	Evan has taken 1 damage from npc_combine_s, leaving them at 73 health.
+[22:50:22]	Evan has taken 1 damage from npc_combine_s, leaving them at 72 health.
+[22:50:22]	Evan has taken 4 damage from npc_combine_s, leaving them at 68 health.
+[22:50:22]	Evan has taken 1 damage from npc_combine_s, leaving them at 67 health.
+[22:50:26]	Evan has taken 4 damage from npc_combine_s, leaving them at 63 health.
+[22:50:26]	Evan has taken 63 damage from npc_combine_s, leaving them at 0 health.
+[23:11:24]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[23:12:32]	NZERA loaded the character #2(Evan)
+[23:20:45]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[23:23:02]	NZERA loaded the character #2(Evan)
+[23:24:44]	Evan has taken 16 damage from worldspawn, leaving them at 85 health.
+[23:24:51]	Evan has taken 52 damage from worldspawn, leaving them at 32 health.
+[23:25:11]	Evan has taken 68 damage from worldspawn, leaving them at -35 health.
+[23:25:47]	Evan has taken 24 damage from worldspawn, leaving them at 76 health.
+[23:47:07]	Bot02 loaded the character #1590619627(Bot02)
+[23:47:07]	Bot03 loaded the character #1590619627(Bot03)
+[23:47:07]	Bot04 loaded the character #1590619627(Bot04)
+[23:47:08]	Bot05 loaded the character #1590619628(Bot05)
+[23:47:08]	Bot06 loaded the character #1590619628(Bot06)
+[23:47:08]	Bot07 loaded the character #1590619628(Bot07)
+[23:47:08]	Bot08 loaded the character #1590619628(Bot08)
+[23:47:08]	Bot09 loaded the character #1590619628(Bot09)
+[23:47:08]	Bot10 loaded the character #1590619628(Bot10)
+[23:47:08]	Bot11 loaded the character #1590619628(Bot11)
+[23:47:08]	Bot12 loaded the character #1590619628(Bot12)
+[23:47:08]	Bot13 loaded the character #1590619628(Bot13)
+[23:47:09]	Bot14 loaded the character #1590619629(Bot14)
+[23:47:09]	Bot15 loaded the character #1590619629(Bot15)
+[23:47:09]	Bot16 loaded the character #1590619629(Bot16)
+[23:47:09]	Bot17 loaded the character #1590619629(Bot17)
+[23:47:09]	Bot18 loaded the character #1590619629(Bot18)
+[23:47:09]	Bot19 loaded the character #1590619629(Bot19)
+[23:47:10]	Bot20 loaded the character #1590619630(Bot20)
+[23:47:10]	Bot21 loaded the character #1590619630(Bot21)
+[23:47:10]	Bot22 loaded the character #1590619630(Bot22)
+[23:47:10]	Bot23 loaded the character #1590619630(Bot23)
+[23:47:10]	Bot24 loaded the character #1590619630(Bot24)
+[23:47:10]	Bot25 loaded the character #1590619630(Bot25)
+[23:47:10]	Bot26 loaded the character #1590619630(Bot26)
+[23:47:10]	Bot27 loaded the character #1590619630(Bot27)
+[23:47:10]	Bot28 loaded the character #1590619630(Bot28)
+[23:47:11]	Bot29 loaded the character #1590619631(Bot29)
+[23:47:11]	Bot30 loaded the character #1590619631(Bot30)
+[23:47:11]	Bot31 loaded the character #1590619631(Bot31)
+[23:47:11]	Bot32 loaded the character #1590619631(Bot32)
+[23:47:11]	Bot33 loaded the character #1590619631(Bot33)
+[23:47:11]	Bot34 loaded the character #1590619631(Bot34)
+[23:47:11]	Bot35 loaded the character #1590619631(Bot35)
+[23:47:12]	Bot36 loaded the character #1590619632(Bot36)
+[23:47:12]	Bot37 loaded the character #1590619632(Bot37)
+[23:47:12]	Bot38 loaded the character #1590619632(Bot38)
+[23:47:12]	Bot39 loaded the character #1590619632(Bot39)
+[23:47:12]	Bot40 loaded the character #1590619632(Bot40)
+[23:47:15]	[IC] Evan: !bring *
+[23:49:05]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[23:49:39]	NZERA loaded the character #2(Evan)
+[20:38:39]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:38:57]	[Master Work] Arctic loaded the character #1(Arctic)
+[20:44:00]	[IC] Arctic: !slay ^
+[20:46:33]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:47:42]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:49:14]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:50:46]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:54:09]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:56:31]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:59:04]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[20:59:49]	[Master Work] Arctic loaded the character #1(Arctic)
+[21:06:44]	Arctic has disconnected from the server.
+[21:06:54]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[21:07:01]	[Master Work] Arctic loaded the character #1(Arctic)
+[21:15:45]	[Master Work] Arctic[STEAM_0:1:29252363] has connected to the server.
+[21:15:52]	[Master Work] Arctic loaded the character #1(Arctic)
+[21:46:25]	Arctic has taken 10 damage from npc_zombie, leaving them at 90 health.
+[21:46:26]	Arctic has taken 10 damage from npc_zombie, leaving them at 80 health.
+[21:46:28]	Arctic has taken 10 damage from npc_zombie, leaving them at 70 health.
+[21:46:30]	Arctic has taken 10 damage from npc_zombie, leaving them at 60 health.
+[21:46:32]	Arctic has taken 10 damage from npc_zombie, leaving them at 50 health.
+[21:46:33]	Arctic has taken 10 damage from npc_zombie, leaving them at 40 health.
+[21:46:35]	Arctic has taken 10 damage from npc_zombie, leaving them at 30 health.
+[21:46:36]	Arctic has taken 10 damage from npc_zombie, leaving them at 20 health.
+[21:46:38]	Arctic has taken 10 damage from npc_zombie, leaving them at 10 health.
+[21:46:49]	Arctic has taken 10 damage from npc_zombie, leaving them at 5 health.
+[21:47:01]	Arctic has taken 10 damage from npc_zombie, leaving them at 5 health.
+[21:47:46]	Arctic has taken 11 damage from worldspawn, leaving them at 89 health.
+[21:47:48]	Arctic has taken 9 damage from worldspawn, leaving them at 81 health.
+[21:47:50]	Arctic has taken 13 damage from worldspawn, leaving them at 68 health.
+[21:47:51]	Arctic has taken 23 damage from worldspawn, leaving them at 45 health.
+[21:47:54]	Arctic has taken 30 damage from worldspawn, leaving them at 15 health.
+[21:48:49]	[IC] Arctic: !hp ^ 1
+[21:48:59]	Arctic has taken 2 damage from worldspawn, leaving them at 18 health.
+[21:51:21]	Arctic has taken 5 damage from npc_headcrab_poison, leaving them at 20 health.
+[21:51:21]	Arctic has taken 19 damage from npc_headcrab_poison, leaving them at 1 health.
+[21:51:30]	Arctic has taken 5 damage from npc_headcrab_poison, leaving them at 20 health.
+[21:51:30]	Arctic has taken 19 damage from npc_headcrab_poison, leaving them at 1 health.
+[21:51:51]	[Master Work] Arctic(STEAM_0:1:29252363) deleted character (1)
+[21:55:35]	Kit[STEAM_0:1:120280980] has connected to the server.
+[22:05:36]	[Master Work] Arctic created the character #2(adadadad)
+[22:05:36]	[Master Work] Arctic's money has changed by 0.
+[22:05:37]	[Master Work] Arctic loaded the character #2(adadadad)
+[22:38:41]	adadadad has disconnected from the server.
+[23:55:54]	Kujo[STEAM_0:1:246687384] has connected to the server.
+[23:58:47]	Kujo created the character #3(PVT Kujo)
+[23:58:47]	Kujo's money has changed by 0.
+[23:58:51]	Kujo loaded the character #3(PVT Kujo)

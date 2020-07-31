@@ -1,0 +1,111 @@
+<<<<<<< HEAD
+<Logging continued from "data/ulx_logs/05-29-20.txt">
+[01:17:27] Evan changed the map to gm_flatgrass
+[01:17:27] Server is shutting down/changing levels.
+
+
+
+[01:17:30] New map: gm_flatgrass
+[01:17:39] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[01:17:45] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[01:18:07] Evan: /chargiveitem am_bloodthorn
+[01:18:18] Evan: /chargiveitem evan am_bloodthorn 1 
+[01:18:33] Evan<STEAM_0:0:15927175> changed their name to REE
+[01:18:36] REE: /chargiveitem ree am_bloodthorn 1 
+[01:18:57] REE: /chargiveitem ree am_bloodthorn_id 1 
+[01:19:23] REE: /chargiveitem ree am_bloodthorn_id 1 
+[01:19:32] REE: /chargiveitem ree am_bloodthorn_id 1 
+[01:19:33] REE: /chargiveitem ree am_bloodthorn_id 1 
+[01:19:34] REE: /chargiveitem ree am_bloodthorn_id 1 
+[01:19:35] REE: /chargiveitem ree am_bloodthorn_id 1 y
+[01:19:35] REE: /chargiveitem ree am_bloodthorn_id 1 y
+[02:03:52] Dropped "REE" from server<STEAM_0:0:15927175>
+
+
+
+[13:02:16] New map: rp_mws_station_v0_8
+[13:10:34] Client "NZERA" connected.
+[13:11:10] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 36 seconds).
+[13:11:57] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[13:44:52] Dropped "Evan" from server<STEAM_0:0:15927175>
+[13:47:34] Client "NZERA" connected.
+[13:47:52] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 18 seconds).
+[13:49:59] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[15:11:14] Evan: nigga
+[16:35:36] Evan: nigga
+[17:33:48] Evan: /chargiveitem evan am_bloodthorn_id 12
+[17:34:06] Evan: /chargiveitem evan am_hell flower_id 4
+[17:34:14] Evan: /chargiveitem evan "am_hell flower_id" 4
+[23:55:58] Dropped "Evan" from server<STEAM_0:0:15927175>
+[23:55:58] Client "NZERA" connected.
+[23:56:17] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 19 seconds).
+[23:58:20] NZERA<STEAM_0:0:15927175> changed their name to Evan
+=======
+[21:32:04] New map: rp_mws_station_v0_8
+[21:39:44] Client "[Master Work] Arctic" connected.
+[21:40:06] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 22 seconds).
+[21:41:01] Dropped "[Master Work] Arctic" from server<STEAM_0:1:29252363>
+[21:41:37] Client "[Master Work] Arctic" connected.
+[21:41:52] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 15 seconds).
+[21:42:59] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to 9Minutes btw
+[21:56:45] 9Minutes btw<STEAM_0:1:29252363> changed their name to [Master Work] Arctic
+[21:56:59] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to aaaaaaa
+[21:58:49] aaaaaaa<STEAM_0:1:29252363> changed their name to [Master Work] Arctic
+[21:59:05] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to 9Mintues
+
+
+
+[21:59:54] New map: rp_mws_station_v0_8
+[22:00:42] Client "[Master Work] Arctic" connected.
+[22:00:54] Client "[Master Work] Arctic" spawned in server <STEAM_0:1:29252363> (took 12 seconds).
+[22:01:04] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to 9Mintues
+[22:07:22] 9Mintues<STEAM_0:1:29252363> changed their name to [Master Work] Arctic
+[22:07:39] [Master Work] Arctic<STEAM_0:1:29252363> changed their name to ICan'tCode
+[22:13:31] ICan'tCode: /flaggive ICan'tcode n
+[22:13:36] ICan'tCode: /flaggive ICan'tcode e
+[22:13:38] ICan'tCode<STEAM_0:1:29252363> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:13:40] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_monk
+[22:13:42] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_monk
+[22:13:43] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_monk
+[22:13:52] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_metropolice
+[22:13:56] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:14:00] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combinegunship
+[22:15:04] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:16:21] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:16:22] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_metropolice
+[22:16:23] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:17:43] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_vortigaunt
+[22:17:55] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:18:11] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:18:14] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:18:23] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:18:24] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:18:54] Client "CamelCap0902" connected.
+[22:18:57] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:19:17] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:19:20] ICan'tCode<STEAM_0:1:29252363> spawned NPC npc_combine_s
+[22:21:55] Client "CamelCap0902" spawned in server <STEAM_0:0:526482896> (took 181 seconds).
+[22:22:48] ICan'tCode: !giveammo ^ 100
+[22:22:58] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:58] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:58] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:59] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:59] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:59] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:59] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:22:59] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1_grenade
+[22:23:06] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:06] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:06] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:06] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:06] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:06] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:07] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:07] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:07] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:07] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:07] ICan'tCode<STEAM_0:1:29252363> spawned sent item_ammo_smg1
+[22:23:25] Dropped "ICan'tCode" from server<STEAM_0:1:29252363>
+[22:23:40] CamelCap0902<STEAM_0:0:526482896> changed their name to CamelCap
+[22:24:06] Dropped "CamelCap" from server<STEAM_0:0:526482896>
+>>>>>>> ab99c88d10edb75bb3aa8f4c9fa2ff7501f604cf

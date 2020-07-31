@@ -1,0 +1,38 @@
+[13:48:17] New map: rp_mws_station_v0_8
+[13:48:50] Client "NZERA" connected.
+[13:49:22] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 32 seconds).
+[13:49:45] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:41:02] Dropped "Evan" from server<STEAM_0:0:15927175>
+
+
+
+[22:14:43] New map: rp_mws_station_v0_8
+[22:15:27] Client "NZERA" connected.
+[22:16:05] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 38 seconds).
+[22:16:26] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[22:19:08] Evan<STEAM_0:0:15927175> spawned NPC npc_combine_s
+[22:19:14] Evan was killed by npc_combine_s
+[22:19:21] Evan<STEAM_0:0:15927175> spawned NPC npc_combine_s
+[22:19:25] Evan set the hp for Themself to 1
+[22:19:25] Evan: !hp ^ 1
+[22:22:56] Evan<STEAM_0:0:15927175> spawned NPC npc_pigeon
+[22:22:56] Evan<STEAM_0:0:15927175> spawned NPC npc_monk
+[22:22:57] Evan<STEAM_0:0:15927175> spawned NPC npc_seagull
+[22:23:09] Evan<STEAM_0:0:15927175> spawned NPC npc_vortigaunt
+[22:27:06] Evan changed the map to gm_flatgrass
+[22:27:06] Server is shutting down/changing levels.
+
+
+
+[22:27:09] New map: gm_flatgrass
+[22:27:19] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[22:34:51] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[22:40:46] Dropped "Evan" from server<STEAM_0:0:15927175>
+
+
+
+[23:24:25] New map: rp_mws_station_v0_8
+[23:24:54] Client "NZERA" connected.
+[23:25:12] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 18 seconds).
+[23:25:22] NZERA<STEAM_0:0:15927175> changed their name to Evan
+<Logging continued in "data/ulx_logs/05-30-20.txt">

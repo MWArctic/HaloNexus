@@ -1,0 +1,67 @@
+<Logging continued from "data/ulx_logs/06-01-20.txt">
+[00:12:14] Dropped "Evan" from server<STEAM_0:0:15927175>
+
+
+
+[12:32:28] New map: rp_mws_station_v0_8
+[12:34:43] Client "NZERA" connected.
+[12:35:14] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 31 seconds).
+[12:48:44] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[13:06:58] Dropped "Evan" from server<STEAM_0:0:15927175>
+[13:06:58] Client "NZERA" connected.
+[13:07:11] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 13 seconds).
+[13:07:19] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[13:16:00] Evan<STEAM_0:0:15927175> changed their name to REE
+[13:17:00] REE<STEAM_0:0:15927175> changed their name to Evan
+[13:17:05] Dropped "Evan" from server<STEAM_0:0:15927175>
+[13:17:05] Client "NZERA" connected.
+[13:17:16] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[13:18:34] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[13:19:04] Dropped "Evan" from server<STEAM_0:0:15927175>
+[13:19:05] Client "NZERA" connected.
+[13:19:15] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[13:19:26] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:12:27] Evan<STEAM_0:0:15927175> changed their name to REE
+[14:13:04] REE<STEAM_0:0:15927175> changed their name to Evan
+[14:13:45] Evan<STEAM_0:0:15927175> changed their name to REE
+[14:13:49] REE<STEAM_0:0:15927175> changed their name to Evan
+[14:13:51] Dropped "Evan" from server<STEAM_0:0:15927175>
+[14:13:51] Client "NZERA" connected.
+[14:14:02] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[14:14:15] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:14:19] Dropped "Evan" from server<STEAM_0:0:15927175>
+[14:14:19] Client "NZERA" connected.
+[14:14:29] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[14:22:38] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:23:10] Dropped "Evan" from server<STEAM_0:0:15927175>
+[14:23:11] Client "NZERA" connected.
+[14:23:21] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[14:23:28] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:24:17] Dropped "Evan" from server<STEAM_0:0:15927175>
+[14:24:17] Client "NZERA" connected.
+[14:24:28] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[14:24:59] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:52:02] Dropped "Evan" from server<STEAM_0:0:15927175>
+[14:52:02] Client "NZERA" connected.
+[14:52:13] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[14:52:54] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[14:55:37] Dropped "Evan" from server<STEAM_0:0:15927175>
+[14:55:38] Client "NZERA" connected.
+[14:55:48] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[14:55:57] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[15:04:56] Dropped "Evan" from server<STEAM_0:0:15927175>
+[15:04:57] Client "NZERA" connected.
+[15:05:07] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[15:05:18] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[15:05:41] Dropped "Evan" from server<STEAM_0:0:15927175>
+[15:05:41] Client "NZERA" connected.
+[15:05:51] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[15:05:58] NZERA<STEAM_0:0:15927175> changed their name to Evan
+
+
+
+[15:32:02] New map: rp_mws_station_v0_8
+[15:33:07] Client "NZERA" connected.
+[15:33:18] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[15:36:06] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[18:36:47] Dropped "Evan" from server<STEAM_0:0:15927175>

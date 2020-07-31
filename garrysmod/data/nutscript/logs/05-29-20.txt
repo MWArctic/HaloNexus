@@ -1,0 +1,24 @@
+[13:49:22]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[13:49:32]	NZERA(STEAM_0:0:15927175) deleted character (3)
+[13:49:44]	NZERA's money has changed by 0.
+[13:49:44]	NZERA created the character #4(Evan)
+[13:49:45]	NZERA loaded the character #4(Evan)
+[14:41:02]	Evan has disconnected from the server.
+[22:16:05]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[22:16:26]	NZERA loaded the character #4(Evan)
+[22:19:08]	Evan has taken 20 damage from npc_combine_s, leaving them at 80 health.
+[22:19:10]	Evan has taken 10 damage from npc_combine_s, leaving them at 70 health.
+[22:19:11]	Evan has taken 10 damage from npc_combine_s, leaving them at 60 health.
+[22:19:11]	Evan has taken 24 damage from npc_combine_s, leaving them at 36 health.
+[22:19:13]	Evan has taken 19 damage from npc_combine_s, leaving them at 17 health.
+[22:19:14]	Evan has taken 23 damage from npc_combine_s, leaving them at -6 health.
+[22:19:22]	Evan has taken 4 damage from npc_combine_s, leaving them at 96 health.
+[22:19:22]	Evan has taken 4 damage from npc_combine_s, leaving them at 91 health.
+[22:19:22]	Evan has taken 4 damage from npc_combine_s, leaving them at 87 health.
+[22:19:22]	Evan has taken 4 damage from npc_combine_s, leaving them at 82 health.
+[22:19:25]	[IC] Evan: !hp ^ 1
+[22:27:19]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[22:34:51]	NZERA loaded the character #4(Evan)
+[22:40:46]	Evan has disconnected from the server.
+[23:25:12]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[23:25:21]	NZERA loaded the character #4(Evan)

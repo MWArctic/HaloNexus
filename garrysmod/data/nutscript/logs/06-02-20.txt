@@ -1,0 +1,49 @@
+[00:12:14]	Evan has disconnected from the server.
+[12:35:14]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[12:48:44]	NZERA loaded the character #4(Evan)
+[13:06:58]	Evan has disconnected from the server.
+[13:07:11]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[13:07:18]	NZERA loaded the character #4(Evan)
+[13:15:59]	NZERA loaded the character #5(REE)
+[13:16:59]	NZERA loaded the character #4(Evan)
+[13:17:05]	Evan has disconnected from the server.
+[13:17:16]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[13:18:33]	NZERA loaded the character #4(Evan)
+[13:19:04]	Evan has disconnected from the server.
+[13:19:15]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[13:19:25]	NZERA loaded the character #4(Evan)
+[14:12:27]	NZERA loaded the character #5(REE)
+[14:13:03]	NZERA loaded the character #4(Evan)
+[14:13:44]	NZERA loaded the character #5(REE)
+[14:13:48]	NZERA loaded the character #4(Evan)
+[14:13:51]	Evan has disconnected from the server.
+[14:14:02]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[14:14:14]	NZERA loaded the character #4(Evan)
+[14:14:19]	Evan has disconnected from the server.
+[14:14:29]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[14:22:37]	NZERA loaded the character #4(Evan)
+[14:23:10]	Evan has disconnected from the server.
+[14:23:21]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[14:23:28]	NZERA loaded the character #4(Evan)
+[14:24:17]	Evan has disconnected from the server.
+[14:24:28]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[14:24:59]	NZERA loaded the character #4(Evan)
+[14:52:02]	Evan has disconnected from the server.
+[14:52:13]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[14:52:54]	NZERA loaded the character #4(Evan)
+[14:55:37]	Evan has disconnected from the server.
+[14:55:48]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[14:55:56]	NZERA loaded the character #4(Evan)
+[15:04:56]	Evan has disconnected from the server.
+[15:05:07]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[15:05:17]	NZERA loaded the character #4(Evan)
+[15:05:41]	Evan has disconnected from the server.
+[15:05:51]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[15:05:57]	NZERA loaded the character #4(Evan)
+[15:33:18]	NZERA[STEAM_0:0:15927175] has connected to the server.
+[15:36:06]	NZERA loaded the character #4(Evan)
+[16:26:20]	Evan has lost 1xBloodthorn.
+[16:26:20]	Evan tried 'drop' on item 'Bloodthorn'(#8)
+[16:26:23]	Evan tried 'take' on item 'Bloodthorn'(#8)
+[16:26:23]	Evan has picked up 1xBloodthorn.
+[18:36:47]	Evan has disconnected from the server.

@@ -1,0 +1,47 @@
+[00:26:50] New map: rp_mws_station_v0_8
+[00:27:21] Client "NZERA" connected.
+[00:27:53] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 32 seconds).
+[00:28:01] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[01:00:37] Evan: /chargiveitem evan hl_hell flower_id 1
+[01:00:43] Evan: /chargiveitem evan "hl_hell flower_id"
+[01:01:46] Evan: /chargiveitem evan "btec_armor"
+[01:43:07] Evan: a
+[02:03:38] Dropped "Evan" from server<STEAM_0:0:15927175>
+[02:03:38] Client "NZERA" connected.
+[02:03:49] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[02:04:08] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[02:05:18] Evan changed the map to gm_flatgrass
+[02:05:18] Server is shutting down/changing levels.
+
+
+
+[02:05:21] New map: gm_flatgrass
+[02:05:31] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 11 seconds).
+[02:09:58] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[02:43:44] Evan changed the map to gm_flatgrass
+[02:43:44] Server is shutting down/changing levels.
+
+
+
+[02:43:46] New map: gm_flatgrass
+[02:43:55] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[02:44:07] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[02:44:28] Evan: /chargiveitem Evan mark_iv_helmet
+[03:18:45] Evan changed the map to gm_flatgrass
+[03:18:45] Server is shutting down/changing levels.
+
+
+
+[03:18:47] New map: gm_flatgrass
+[03:18:56] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[03:19:02] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[03:22:39] Evan changed the map to gm_flatgrass
+[03:22:39] Server is shutting down/changing levels.
+
+
+
+[03:22:41] New map: gm_flatgrass
+[03:22:50] Client "NZERA" spawned in server <STEAM_0:0:15927175> (took 10 seconds).
+[03:22:57] NZERA<STEAM_0:0:15927175> changed their name to Evan
+[03:32:20] Evan: /chargiveitem evan mark_iv_helmet
+[03:36:29] Evan: /chargiveitem evan mark_iv_helmet
